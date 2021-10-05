@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: normal;
+    src: url('Vazir.eot');
+    src: url('Vazir.eot?#iefix') format('embedded-opentype'),
+    url('Vazir.woff2') format('woff2'),
+    url('Vazir.woff') format('woff'),
+    url('Vazir.ttf') format('truetype');
+
+}
+@font-face {
+    font-family:Amsterdam;
+    src: url('Amsterdam.ttf') format('ttf'),url('Amsterdam.otf') format('otf'),;
+}
