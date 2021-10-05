@@ -253,6 +253,7 @@ ul.dropdown-menu{
         width: 70%;
         height: auto;
         padding: 2%;
+        margin:0;
     }
     .item-82{
         padding: 10px;
